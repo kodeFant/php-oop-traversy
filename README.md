@@ -2,7 +2,7 @@
 
 ## Modules to Finish
 
-- [ ] 1.  Course Intro & Setup
+- [x] 1.  Course Intro & Setup
 - [ ] 2.  Intro to OOP PHP
 - [ ] 3.  The Framework [Part 1] - The Core
 - [ ] 4.  The Framework [Part 2] - MVC Workflow
